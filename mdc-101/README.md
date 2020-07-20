@@ -1,3 +1,3 @@
-# MDC-101 for Material Components for Android (Kotlin)
+## MDC-101 Completed
 
-Contains starter code structure for the MDC-101 Kotlin codelab.
+![img](ss/ss1.png)
